@@ -9,6 +9,7 @@ Here is a smart guy who can implement your idea ⚛️.
       - Web3.js,Solididy,BlockChain,Smart Contract
       - Php,Code Ignitor,Laravel,MySQL,PostgreSQL,
       - ASP.NET,MS SQL
+      - Ruby on Rails
       - Python,Django,Flask
       - WebScrapping
       - WordPress

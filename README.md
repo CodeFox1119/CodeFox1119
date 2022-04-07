@@ -1,21 +1,16 @@
 ### Hello World 👋
 Here is a smart guy who can implement your idea ⚛️.
 
-- 🔭 I’m currently working on Cryptocurrency and React project.
-      - React/Next.js, React Native
-      - Angular/Ionic
-      - Vue/Nuxt.js
-      - WebGL, Three.js, D3.js, TailwindCSS, Material-UI, AntDesign
-      - Node.js,MongoDB,Firebase,AWS Lambda
-      - Web3.js,Solididy,BlockChain,Smart Contract
-      - Php,Code Ignitor,Laravel,MySQL,PostgreSQL,
-      - ASP.NET,MS SQL
-      - Ruby on Rails
-      - Python,Django,Flask
-      - WebScrapping
-      - WordPress
-      - Native Androi/iOS
-- 💬 Ask me about any issues due to Javascript ❤️.
+## My Core Skill Stack
+- 💽 <b>Programming Languages</b> : Python, C++/C#, QT, JavaScript, TypeScript, PHP, HTML/HTML5, CSS/SCSS/SASS
+- 🗃 <b>Frontend</b> : React, React Native, Redux, Next.js, Vue.js, Nuxt.js, WebGL, Three.js, D3.js, TailwindCSS, Material-UI, AntDesign
+- 🗃 <b>Backend</b> : Node.js, Express.js, Django, Flask
+- 🥇 <b>Top Skill</b> : Blockchain(Solidity, Web3.js, NFTs, Smart Contract), 2D & 3D Animation, AR/VR, WebRTC
+- 🛵 <b>Web Automation & Scraping</b> : Selenium, Headless, BeautifulSoup, Scrapy, Scraper API, OctoParse
+- 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, Cloud Database
+- ⚖ <b>Testing Tools</b> : Mocha, Jasmine, Postman
+- 🌧 <b>Gloud Computing</b> : Google, AWS, Azure
+<br><br>
 ## <b>😇 My Github Stats</b>:
 <p align="left"><img src="https://komarev.com/ghpvc/?username=CleanCrazy-dev&label=Profile%20views&color=0e75b6&style=flat" alt="darkrut" /> </p>
 <p align="center" style="margin-bottom: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=CleanCrazy-dev&column=7&theme=onedark" alt="CleanCrazy-dev" /></p>

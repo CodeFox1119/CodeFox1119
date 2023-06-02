@@ -1,16 +1,62 @@
-Ready to make it happen! 👋
+### Senior Software Enginner, Logical/Strategy adviser, System Archtecture and pianist, I know blockchain[Like, a lot]😄👋
+- 🔭 I’m currently working on blockchain technology.
+- 🌱 I'd love to help your work
+- 👯 I’m looking forward collaborating Defi, GameFi and NFT projects! 
+- 💬 Ask me about any questions or concerns you have
+- 📫 How to reach me: ...
+- 😄 Pronouns: he/him
+- ⚡ Habbit: Reading, Piano, .
 
-## My Services
-- Web2: React.js, Angular, Vue.js,Three.js,D3.js,Babylon.js,Ember.js, Meteor.js, JavaScript, Html, CSS, PHP, SQL,ASP.NET,Node.js, Express.js, Django, Next.js, Nuxt.js, Nest.js, Laravel/CI, Drupal, TypeScript, Coffee Script,WP,Shopify,RoR
-- Hybrid and Native mobiel apps
-- Web3: Web3.js, Ethers.js, Web3.py
-- Blockchain: Bitcoin, Ethereum, Geth, MEV-Geth, Arbitrage/Liquidation Bots, Parity, Ethereum 2.0, Truffle, Waffle, Solidity, ERC(BEP)20/721/1155, Stable Coin, Staking Pool, Mining Pool
-<br><br>
-## <b>😇 My Github Stats</b>:
-<p align="left"><img src="https://komarev.com/ghpvc/?username=HumbleDev-1119&label=Profile%20views&color=0e75b6&style=flat" alt="darkrut" /> </p>
-<p align="center" style="margin-bottom: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=HumbleDev-1119&column=7&theme=onedark" alt="HumbleDev-1119" /></p>
-<p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=HumbleDev-1119&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"> 
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=HumbleDev-1119&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true">
-</p>
+**Why Me*?*
 
+First and formost, I love what I do - and what I do is blockchain!
+
+**Skills/Interests**
+
+   1. *Blockchain*  
+   2.  Ethereum Dapps
+
+       - Financial applications (Manipulate Ether, ERC20, ICO...)
+       - Proficient in Cosmos SDK
+       - Good knowledge of tokens (ERC20, ERC721, ERC1155)
+       - Governance (DAO)
+       - Game (ERC721, ERC1155, Crypto-collectibles)
+       - Generate randomness
+       - Importing data to the Blockchain (oracles)
+       - Low-level knowledge of the EVM (assembly)
+      
+   3. *Strong Smart Contract Skills*
+      - Write safe smart contracts using Solidity, Rust and Golang
+      - Test your contracts code
+      - Integrate frontend with various wallets
+      - Modern interactive web3 frontend UI/UX
+      
+   4. *Frontend dev skills* 
+   
+      React.js, Next.js, Vue.js,  Nuxt.js, Ethers.js, Web3.js, Gatsby.js, Meteor.js, Ember.js, Tailwind CSS, Post CSS and much more...
+   5. *Full Stack/Backend dev skills*
+   
+      Node.js, Python/Django, Laravel,CI
+   6. *Cloud Technologies*
+   
+       Docker, AWS, Azure
+   7. *As Bonus*
+   
+      Shopify
+
+  <img align="right" alt="GIF" src="https://epicprogrammerassets.netlify.app/Assets/code.gif?raw=true" width="500" height="320" />
+
+<!--
+**CodeFox1119/CodeFox1119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

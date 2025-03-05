@@ -33,7 +33,7 @@ First and formost, I love what I do - and what I do is blockchain!
       
    4. *Frontend dev skills* 
    
-      React.js, Next.js, Vue.js,  Nuxt.js, Ethers.js, Web3.js, Gatsby.js, Meteor.js, Ember.js, Tailwind CSS, Post CSS and much more...
+      React.js, Next.js, Vue.js,  Nuxt.js, Ethers.js, Web3.js, Gatsby.js, Meteor.js, Ember.js,Three.js Tailwind CSS, Post CSS and much more...
    5. *Full Stack/Backend dev skills*
    
       Node.js, Python/Django, Laravel,CI
